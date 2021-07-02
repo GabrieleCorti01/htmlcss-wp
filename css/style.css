@@ -44,6 +44,7 @@ li{
 li > a{
     text-decoration: none;
     margin: 0 10px;
+    color: grey;
 }
 
 #container-1{
@@ -59,6 +60,10 @@ li > a{
 .subtitle{
     padding: 300px 650px 50px 60px;
     color: white;
+}
+
+.subtitlemain{
+    color: grey;
 }
 
 #paragrafomain1{
