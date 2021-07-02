@@ -57,7 +57,12 @@ li > a{
 
 .title,
 .subtitle{
-    padding: 300px 650px 70px 70px;
+    padding: 300px 650px 50px 60px;
+    color: white;
+}
+
+#paragrafomain1{
+    font-size: 13px;
 }
 
 #imagecontainer{
@@ -69,6 +74,10 @@ li > a{
     height: 450px;
     margin-top: 20px;
     border-radius: 15px;
+}
+
+#maintitle{
+    margin-top: 40px;
 }
 
 #container-2{
@@ -83,14 +92,13 @@ li > a{
 }
 
 .section-1{
-   height: 100px;
+   height: 80px;
 }
 
 .section-2{
     height: calc(600px - 100px - 20px);
     margin-top: 20px;
     width: 15%;
-    padding: 10px;
 }
 
 .section-3{
@@ -134,7 +142,7 @@ li > a{
 
 #container-footer{
     height: 70px;
-    margin-top: 20px;
+    margin-top: 60px;
 }
 
 #footercontent{
